@@ -486,7 +486,7 @@ img {
       flex-direction: column;
       padding: 1rem;
       height: 5rem; } }
-.captcha-center{margin: 0 auto;}
+.captcha-center{padding: 0 auto;}
 
 @media (max-height: 580px) {
   #header-home .header-content {
