@@ -488,7 +488,7 @@ img {
       height: 5rem; } }
 .captcha-center{padding-left:70%;}
 
-@media (max-height: 580px) {
+@media (max-width: 1024px) {
   #header-home .header-content {
     padding-top: 3rem; } }
 
